@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63ad1a22-69ab-41c8-b592-f1f2539d3dc1" name="Default Changelist" comment="" />
+    <list default="true" id="63ad1a22-69ab-41c8-b592-f1f2539d3dc1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -89,6 +91,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -142,6 +147,7 @@
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -197,15 +203,24 @@
       <option name="presentableId" value="Default" />
       <updated>1596442819245</updated>
       <workItem from="1596442820880" duration="10217000" />
-      <workItem from="1596459616908" duration="1573000" />
+      <workItem from="1596459616908" duration="1824000" />
     </task>
+    <task id="LOCAL-00001" summary="首次提交">
+      <created>1596461565737</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596461565737</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11790000" />
+    <option name="totallyTimeSpent" value="12041000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-342" y="-1080" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Web" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4990099" visible="true" weight="0.16613418" />
@@ -243,6 +258,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="首次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="首次提交" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/260fcb29-a4c3-447e-b332-13caad3e1e58/console.sql">
